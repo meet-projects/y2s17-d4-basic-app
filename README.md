@@ -25,7 +25,7 @@ OPEN A NEW TERMINAL WITHOUT CLOSING THE OLD TERMINAL.
 Then copy past the following code
 
 ```
-cd ~/Desktop/
+cd ~/Desktop/y2s17-d4-basic-app
 source publish.sh
 ```
 
