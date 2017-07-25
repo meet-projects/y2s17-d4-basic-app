@@ -12,7 +12,11 @@ else
 fi
 cd $old_pwd
 
-sudo apt-get install ngrok-client
+if [ ! -f ngrok ]; then
+	wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+	unzip ngrok-stable-linux-amd64.zipelse
+fi
+
 export FLASK_APP=app.py
 export FLASK_DEBUG=1
 
