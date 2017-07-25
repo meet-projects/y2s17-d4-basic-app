@@ -36,3 +36,13 @@ The url format is:
 ```
 http://SOMETHING_ELSE.ngrok.io
 ```
+
+### 6. Customize your page
+
+Use what we learnt in HTML & CSS classes to change your page as you want!
+As an example:
+- add images
+- add link
+- add title
+- add CSS to format your page
+
