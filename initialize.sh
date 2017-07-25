@@ -14,7 +14,7 @@ cd $old_pwd
 
 if [ ! -f ngrok ]; then
 	wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
-	unzip ngrok-stable-linux-amd64.zipelse
+	unzip ngrok-stable-linux-amd64.zip
 fi
 
 export FLASK_APP=app.py
