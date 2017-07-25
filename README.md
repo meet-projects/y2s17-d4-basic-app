@@ -19,6 +19,8 @@ To run flask do:
 flask run
 ```
 
+Visit the local website that you created: <a href="http://127.0.0.1:5000" target="_blank">http://127.0.0.1:5000</a>
+
 ### 4. Publish the website to internet
 
 OPEN A NEW TERMINAL WITHOUT CLOSING THE OLD TERMINAL.
